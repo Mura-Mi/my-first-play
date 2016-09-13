@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+$font-family-sans-serif: 'Noto Sans JP', sans-serif;
+
+$brand-primary: mediumblue;
+$body-bg: lightsteelblue;
+
+$icon-font-path: 'node_modules/bootstrap-sass/assets/fonts/bootstrap/';
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
